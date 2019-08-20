@@ -1,3 +1,3 @@
-# Python scripts to generate + check codes efficently
+Python scripts to generate + check codes efficently
 
-# Will be updated as needed
+Will be updated as needed
